@@ -1,0 +1,9 @@
+How To Approach?
+1.Clarify the Question asked to you.
+- Do you want me to just give the structure or implement it?
+- Are there any specific requirements that needs to be fulfilled?
+2.Note down all the possible use cases that could occur in system and then select the ones that are important and can be implemented within time span.
+3.Identify the Objects(Entities)
+- Real World entity that is gonna take part in system
+4.Identify operations supported by objects
+5.Relation/Interaction Between Objects
