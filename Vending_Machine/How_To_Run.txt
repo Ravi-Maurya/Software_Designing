@@ -1,0 +1,8 @@
+To Run The Test Cases
+---------------------
+run>> python3 vendingMachineTest.py
+
+How To change the Inventory
+---------------------------
+>> edit vendingMachineTest.py
+>> call object.test_add_coins(Penny()) to add coins to the inventory, Similar for other four test cases
